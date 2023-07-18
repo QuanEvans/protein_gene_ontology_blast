@@ -1,0 +1,24 @@
+{
+  "version": "1.2",
+  "dbname": "SAGP.fasta",
+  "dbtype": "Protein",
+  "db-version": 5,
+  "description": "SAGP.fasta",
+  "number-of-letters": 43686861,
+  "number-of-sequences": 77632,
+  "last-updated": "2023-07-07T12:40:00",
+  "number-of-volumes": 1,
+  "bytes-total": 52588466,
+  "bytes-to-cache": 44385646,
+  "files": [
+    "SAGP.fasta.pdb",
+    "SAGP.fasta.phr",
+    "SAGP.fasta.pin",
+    "SAGP.fasta.pog",
+    "SAGP.fasta.pos",
+    "SAGP.fasta.pot",
+    "SAGP.fasta.psq",
+    "SAGP.fasta.ptf",
+    "SAGP.fasta.pto"
+  ]
+}

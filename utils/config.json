@@ -1,0 +1,7 @@
+{
+    "num_threads": 32,
+    "DatabaseDir": "/mnt/f/cafa5/SAGP/goa_database",
+    "ModelDir": "/mnt/f/ATGO/SAGP_Benchmark/",
+    "config_file": "/mnt/f/ATGO/dev_atgo/config/config.json",
+    "GOA": "/mnt/f/cafa5/SAGP/labels"
+}
